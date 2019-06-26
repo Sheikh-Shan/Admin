@@ -1,0 +1,59 @@
+*{
+
+	margin: 0px;
+}
+
+.container{
+
+width: 450px;
+margin: 200px auto;
+
+}
+
+body{
+
+	font-family: 'Poppins', sans-serif;
+	background:url(../img/pass.png);
+	background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.login-section
+{
+
+padding: 30px;
+
+
+}
+
+.login-section,h2
+{
+
+    color:#fffbbf;
+    text-align: center;
+    margin: 20px 0px;
+    font-size: x-large;
+
+
+}
+.form-control{
+width: 90%;
+    padding: 20px 15px;
+    margin-bottom: 12px;
+
+}
+.btn{
+	background-color: aqua;
+    color: black;
+    padding: 10px 20px;
+    margin: 0px auto;
+    text-align: center;
+    text-shadow: seagreen;
+    transition: auto;
+    display: block;
+    text-transform: uppercase;
+    font-size: smaller
+
+
+}
+
